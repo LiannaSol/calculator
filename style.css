@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.nav {
+    background-color: rgb(158, 163, 163);
+    font-family:'cursive';
+    font-size: 3.0rem;
+   
+}
+
+
+.main {
+    background-size: cover;
+    background: url(./calculator-pen-table-calendar-blue-background-top-view-office-desk-copy-space-179944470.jpeg);
+    width: 100%;
+    height: 100vh;  
+    font-family: cursive;  
+    
+}
+
+.main p{
+    font-size: 1.5rem;
+    align-items:center;
+   box-sizing:border-box;
+   background-color: rgb(194, 222, 177); 
+   font-family: 'cursive';
+   position: relative;
+   text-align: center;
+  color: rgb(25, 24, 24);
+  display: flex;
+    justify-content: center;
+}
